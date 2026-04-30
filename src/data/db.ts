@@ -2,7 +2,7 @@ import type { Project } from '../types';
 
 export const db: Project[] = [
 	{
-		image: '/projects-images/lp-wifinetworks.png',
+		image: '/projects-images/lp-wifinetworks.webp',
 		title: 'Wifinetworks Landing Page',
 		description:
 			'Landing Page para empresa proveedora de servicio de internet por medio inalámbrico en Morales, Izabal.',
@@ -11,7 +11,7 @@ export const db: Project[] = [
 		technologies: ['React', 'JavaScript', 'TailwindCSS', 'CSS'],
 	},
 	{
-		image: '/projects-images/movie-verse.png',
+		image: '/projects-images/movie-verse.webp',
 		title: 'Movies-Verse',
 		description:
 			'Proyecto personal, página para ver las películas y series más populares del momento utilizando la API de TMDB para obtener la información.',
@@ -20,7 +20,7 @@ export const db: Project[] = [
 		technologies: ['React', 'JavaScript', 'TailwindCSS', 'CSS', 'API'],
 	},
 	{
-		image: '/projects-images/drink-recipe-finder.png',
+		image: '/projects-images/drink-recipe-finder.webp',
 		title: 'Drink Recipe Finder',
 		description:
 			'Proyecto personal, aplicación web para buscar recetas de bebidas utilizando API de thecocktaildb.com.',
@@ -29,7 +29,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'TailwindCSS', 'API'],
 	},
 	{
-		image: '/projects-images/cryptocurrency-quoter.png',
+		image: '/projects-images/cryptocurrency-quoter.webp',
 		title: 'Cryptocurrency Quoter',
 		description:
 			'Proyecto personal, aplicación web que muestra información actual de las Criptomonedas más populares del momento.',
@@ -38,7 +38,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'CSS', 'API'],
 	},
 	{
-		image: '/projects-images/weather-finder.png',
+		image: '/projects-images/weather-finder.webp',
 		title: 'Weather Finder',
 		description:
 			'Proyecto personal, aplicación web para buscar el clima en diferentes ciudades y paises utilizando API de openweathermap.org.',
@@ -47,7 +47,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'CSS', 'API'],
 	},
 	{
-		image: '/projects-images/guitarla.png',
+		image: '/projects-images/guitarla.webp',
 		title: 'GuitarLA Store',
 		description: 'Proyecto personal, simulación de carrito de compras de una tienda de guitarras con localStorage.',
 		github: 'https://github.com/RVentura13/guitarla',
@@ -55,7 +55,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'CSS'],
 	},
 	{
-		image: '/projects-images/tip-calculator.png',
+		image: '/projects-images/tip-calculator.webp',
 		title: 'Tip-Calculator',
 		description:
 			'Proyecto personal, aplicación web para tomar pedidos de un restaurante, hacer el calculo total y propinas.',
@@ -64,7 +64,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'TailwindCSS'],
 	},
 	{
-		image: '/projects-images/budget-control.png',
+		image: '/projects-images/budget-control.webp',
 		title: 'Budget Control',
 		description: 'Proyecto personal, aplicación web para control de presupuesto, gastos y ahorros con localStorage.',
 		github: 'https://github.com/RVentura13/budget-control',
@@ -72,7 +72,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'TailwindCSS'],
 	},
 	{
-		image: '/projects-images/veterinary-patient-registry.png',
+		image: '/projects-images/veterinary-patient-registry.webp',
 		title: 'Registro de pacientes',
 		description: 'Proyecto personal, aplicación web para registrar pacientes de una veterinaria.',
 		github: 'https://github.com/RVentura13/veterinary-patient-registry',
@@ -80,7 +80,7 @@ export const db: Project[] = [
 		technologies: ['React', 'TypeScript', 'TailwindCSS'],
 	},
 	{
-		image: '/projects-images/calories-counter.png',
+		image: '/projects-images/calories-counter.webp',
 		title: 'Calories Counter',
 		description:
 			'Proyecto personal, aplicación web para llevar el control de calorías por comida y ejercicio con localStorage.',

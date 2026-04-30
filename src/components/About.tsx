@@ -7,7 +7,7 @@ export const About = () => {
 			<div className='w-[90%] md:max-w-7xl m-auto flex flex-col md:flex-row gap-10 justify-start items-center py-10'>
 				<figure className='rounded-lg overflow-hidden w-full'>
 					<img
-						src='/aboutme.jpg'
+						src='/aboutme.webp'
 						alt='Código'
 					/>
 				</figure>
