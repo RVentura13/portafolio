@@ -1,30 +1,35 @@
-# React + TypeScript + Vite
+# Portafolio Rony Ventura
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene el código fuente del portafolio de Rony Ventura, Desarrollador Web.
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este portafolio contiene algunos de los proyectos realizados con tecnologías para desarrollo web, enfocado en front-end.
 
-## Expanding the ESLint configuration
+## Uso del Repositorio
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Este repositorio contiene los archivos fuente del proyecto terminado. Puedes clonar este repositorio y personalizar la página de acuerdo a tus necesidades específicas.
 
-- Configure the top-level `parserOptions` property like this:
+## Contribución
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Agradecemos las contribuciones de la comunidad para mejorar el proyecto. Si deseas contribuir, sigue estos pasos:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Haz un fork del repositorio.
+2. Crea una rama para tu contribución (`git checkout -b mi-contribucion`).
+3. Realiza tus cambios y commitea (`git commit -m 'Añadida mi contribución'`).
+4. Haz un push a tu rama (`git push origin mi-contribucion`).
+5. Crea un pull request en GitHub.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+
+Si tienes preguntas o comentarios, no dudes en contactarnos:
+
+- Sitio web: [https://www.rventura.dev](https://www.rventura.dev)
+- Correo electrónico: info@rventura.dev
+- Teléfono: +502 46100010
+
+¡Gracias por visitar el repositorio de Portafolio Rony Ventura!
