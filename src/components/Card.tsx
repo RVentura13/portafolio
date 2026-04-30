@@ -15,6 +15,7 @@ export const Card = ({ project }: CardProps) => {
 					className='w-full h-full object-cover transform transition duration-300 hover:scale-110'
 					src={image}
 					alt='Imagen de proyecto'
+					loading='lazy'
 				/>
 			</div>
 			<div className='px-6 overflow-visible'>
